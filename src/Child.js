@@ -19,7 +19,7 @@ const Child = (props) => {
 					}}
 				/>
 
-				<button>Submits</button>
+				<button>Submit</button>
 			</form>
 		</div>
 	);
